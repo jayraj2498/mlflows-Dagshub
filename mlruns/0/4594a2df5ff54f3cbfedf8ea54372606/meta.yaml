@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/New%20folder/mlruns/0/4594a2df5ff54f3cbfedf8ea54372606/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4594a2df5ff54f3cbfedf8ea54372606
+run_name: thoughtful-grub-537
+run_uuid: 4594a2df5ff54f3cbfedf8ea54372606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712577560062
+status: 1
+tags: []
+user_id: Jayraj

@@ -1,0 +1,16 @@
+artifact_uri: file:///E:/New%20folder/mlruns/0/e5bd1280a49248ed9a89f2f1fae01c0a/artifacts
+deleted_time: 1712576011854
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e5bd1280a49248ed9a89f2f1fae01c0a
+run_name: shivering-newt-470
+run_uuid: e5bd1280a49248ed9a89f2f1fae01c0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712574587593
+status: 1
+tags: []
+user_id: Jayraj
