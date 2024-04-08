@@ -43,3 +43,26 @@ Elasticnet model (alpha=0.500000, l1_ratio=0.500000):
 
 
 ### DagsHub 
+
+- in dags hub acc we can login by using github account 
+
+- add your github repo then you are in dags hub same repo as git have 
+- click on remote -> experiments -> = copy these 
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/jayraj2498/mlflows-Dagshub.mlflow \
+export MLFLOW_TRACKING_USERNAME=jayraj2498 \
+export MLFLOW_TRACKING_PASSWORD=777e2be0b0c43fcc2efbc898716cbaebe35c912b \
+python script.py 
+
+- open git bash 
+    - run all command 
+
+- next open app.py 
+
+ remote_server_uri="https://dagshub.com/jayraj2498/mlflows-Dagshub.mlflow"
+        mlflow.set_tracking_uri(remote_server_uri)
+
+we add remoter uri --> now run by gitbash -- python ap.py        
+next see the model performance on dif diff parameter 
+you can chnage it make new model if require 
+you cam send the model to -> production env or staging env 
